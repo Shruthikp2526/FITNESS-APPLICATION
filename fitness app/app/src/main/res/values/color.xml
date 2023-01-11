@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_background">#F27474</color>
+    <color name="background_odd">#f5c1c1</color>
+    <color name="background_even">#f2dcdc</color>
+    <color name="red">#F27474</color>
+    <color name="lred">#f5c1c1</color>
+    <color name="graph_fill">#f2fbff</color>
+    <color name="background">#ffffff</color>
+    <color name="tableheader_background">#FFFFFF</color>
+    <color name="launcher_background">#F27474</color>
+</resources>
